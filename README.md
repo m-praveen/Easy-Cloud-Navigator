@@ -1,1 +1,1 @@
-# cloud-rover
+# Easy-Cloud-Navigator
